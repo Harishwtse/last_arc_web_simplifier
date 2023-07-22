@@ -4,7 +4,7 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZXlQ6t7JjyRDxMePU0IpjU18zWDjG23V5g&usqp=CAU" alt="coding" width="400" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwtse&label=Profile%20views&color=0e75b6&style=flat" alt="harishwtse" /> </p>
+<p text-align="left"> <img src="https://komarev.com/ghpvc/?username=harishwtse&label=Profile%20views&color=0e75b6&style=flat" alt="harishwtse" /> </p>
 
 - 🔭 I’m currently working on [KEONICS](www.keonics.in)
 
