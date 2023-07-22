@@ -1,10 +1,10 @@
 # last_arc_web_simplifier
 <h1 align="center">Hi 👋, I'm Harish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZXlQ6t7JjyRDxMePU0IpjU18zWDjG23V5g&usqp=CAU" alt="coding" width="400" >
+ <img width="400" align="center" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="harishwtse" />
 
 
-<p text-align="left"> <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="harishwtse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwtse&label=Profile%20views&color=0e75b6&style=flat" alt="harishwtse" /> </p>
 
 - 🔭 I’m currently working on [KEONICS](www.keonics.in)
 
