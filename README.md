@@ -4,7 +4,7 @@
  <img width="400" align="center" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="harishwtse" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwtse&label=Profile%20views&color=0e75b6&style=flat" alt="harishwtse" /> </p>
+<p align="left"> <img auto-play src="https://komarev.com/ghpvc/?username=harishwtse&label=Profile%20views&color=0e75b6&style=flat" alt="harishwtse" /> </p>
 
 - 🔭 I’m currently working on [KEONICS](www.keonics.in)
 
